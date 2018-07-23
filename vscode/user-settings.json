@@ -1,0 +1,6 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "files.autoSave": "afterDelay",
+    "update.channel": "none",
+    "editor.minimap.enabled": false
+}
